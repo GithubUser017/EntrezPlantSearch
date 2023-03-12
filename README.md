@@ -3,7 +3,7 @@
 ## It is a jupyter notebook for Google Colab.
 ## In Colab, you have to Mount your Google Drive, and at the top level, create a folder called plant_search_text_files
 ## In that folder, place the three list text files in this Github, gene1.txt, phytochem3.txt, and genus_names2.txt
-## Also create a subfolder called saved_searches. The script will save the abstracts, title, etc of the search results there. Additionally, folders labeled titles_only and query_files should be created at the same level.
+## Also create a subfolder called saved_searches. The script will save the abstracts, title, etc of the search results there. Additionally, folders labeled titles_only and query_files must be created at the same level.
 
 ## in chronological order with duplicates removed.
 ## Sample Search:
