@@ -35,11 +35,11 @@ If the folder structure is confusing. Just download/copy the folder structure fr
 
 ### choice 1: plant genera - will search your terms against a list of over 35,000 plant genera. This choice is the only one that functions very well as of now.
 
-### choice 2: phytochemicals - will search your terms using a titles only search of a list of  25,000+ phytochemicals.
+### choice 2: phytochemicals - will search your terms using a article titles only search of a list of  25,000+ phytochemicals.
 
 ### choice 3: Both - Does search choice 1 and 2 in a single search. Very slow.
 
-### If you are not ready to do a plant or phytochemical search, you can do a human protein coding gene search for fun using choice 4. This is not a very efficient search, as using MESH  terms are probably for genes.
+### If you are not ready to do a plant or phytochemical search, you can do a human protein coding gene search for fun using choice 4. This is not a very efficient search, as using MESH  terms are probably best for genes.
 
 ## This jupyter notebook was mostly created using the GPT 3 version of ChatGPT. Feel free to add and improve the Github project. Thanks!
 
