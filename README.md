@@ -40,7 +40,7 @@ choice 2: phytochemicals - will search your terms using a titles only search of 
 
 choice 3: Both - Does search choice 1 and 2 in a single search. Very slow.
 
-If you are not ready to do a plant or phytochemical search, you can do a gene search for fun using choice 4. This is not a very efficient search, as using MESH  terms are probably for genes.
+If you are not ready to do a plant or phytochemical search, you can do a human protein coding gene search for fun using choice 4. This is not a very efficient search, as using MESH  terms are probably for genes.
 
 This jupyter notebook was mostly created using the GPT 3 version of ChatGPT. Feel free to add and improve the Github project. Thanks!
 
