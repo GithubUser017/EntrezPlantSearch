@@ -41,6 +41,8 @@ If the folder structure is confusing. Just download/copy the folder structure fr
 
 ### If you are not ready to do a plant or phytochemical search, you can do a human protein coding gene search for fun using choice 4. This is not a very efficient search, as using MESH  terms are probably best for genes.
 
+## Recommended device to read output files -- E-ink devices such as Kindle or Onyx Boox
+
 ## This jupyter notebook was mostly created using the GPT 3 version of ChatGPT. Feel free to add and improve the Github project. Thanks!
 
 
