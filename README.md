@@ -33,8 +33,7 @@ If the folder structure is confusing. Just download/copy the folder structure fr
 
 ## The jupyter notebook contains 4 types of searches:
 
-### choice 1: plant genera - will search your terms against a list of over 35,000 plant genera.
-This choice is the only one that functions very well as of now.
+### choice 1: plant genera - will search your terms against a list of over 35,000 plant genera. This choice is the only one that functions very well as of now.
 
 ### choice 2: phytochemicals - will search your terms using a titles only search of a list of  25,000+ phytochemicals.
 
