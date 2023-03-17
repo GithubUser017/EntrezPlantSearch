@@ -41,7 +41,7 @@ If the folder structure is confusing. Just download/copy the folder structure fr
 
 ### If you are not ready to do a plant or phytochemical search, you can do a human protein coding gene search for fun using choice 4. This is not a very efficient search, as using MESH  terms are probably best for genes.
 
-## Recommended device to read output files -- E-ink devices such as Kindle or Onyx Boox
+
 
 ## This jupyter notebook was mostly created using the GPT 3 version of ChatGPT. Feel free to add and improve the Github project. Thanks!
 
@@ -55,6 +55,8 @@ If the folder structure is confusing. Just download/copy the folder structure fr
    A file with only the titles (for browsing) will be saved to the titles_only folder. 
    
    A partial sample of how your query was sent will be saved to the query_files folder.
+   
+## Recommended device to read output files -- E-ink devices such as Kindle or Onyx Boox
 
 ## Known bug: If search term is vague, like 'diabetes' it will pull up the max results (9999) for some of the search packets and crash
 ## One workaround is to first search for genes or signalling pathways involved in a particular diabetic complication and then
