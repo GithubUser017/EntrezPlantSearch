@@ -4,7 +4,7 @@
 ## In Colab, you have to Mount your Google Drive
 
 
-Create the necessary folders in your Google Drive, according to the Github file structure on this page, as follows:
+## Create the necessary folders in your Google Drive, according to the Github file structure on this page, as follows:
 
 On the top level of your Google Drive, you should have 1 folder:
 
