@@ -29,6 +29,8 @@ query_files
 
 Now run the plant_search.ipynb jupyter notebook in this Github in your Google Colab.
 
+If the folder structure is confusing. Just download/copy the folder structure from this Github into the top level of your Google Drive. The script should then work.
+
 The jupyter notebook contains 4 types of searches:
 
 choice 1: plant genera - will search your terms against a list of over 35,000 plant genera.
