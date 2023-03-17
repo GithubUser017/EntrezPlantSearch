@@ -6,7 +6,7 @@
 
 Create the necessary folders in your Google Drive, according to the Github file structure on this page, as follows:
 On the top level of your Google Drive, you should have 1 folder:
-plant_search_text_files
+plant_search_text_files /n
 In that folder, you should have 3 files:
 genus_names2.txt
 gene1.txt
