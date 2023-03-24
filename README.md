@@ -56,6 +56,10 @@ If the folder structure is confusing. Just download/copy the folder structure fr
    
    A partial sample of how your query was sent will be saved to the query_files folder.
    
+## If you would rather run the search and save the results on your local Windows PC, you can download the prepackaged exe release from the local_desktop_version_Windows branch, github page here:
+
+https://github.com/GithubUser017/EntrezPlantSearch/tree/local_desktop_version_Windows
+   
 ## Recommended device to read output files -- E-ink devices such as Kindle or Onyx Boox
 
 ## Known bug: If search term is vague, like 'diabetes' it will pull up the max results (9999) for some of the search packets and crash
