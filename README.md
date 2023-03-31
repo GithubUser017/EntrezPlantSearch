@@ -1,3 +1,7 @@
+<a target="_blank" href="https://colab.research.google.com/github/GithubUser017/EntrezPlantSearch/blob/main/plant_search.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 # EntrezPlantSearch
 ## Search PubMed using keywords of 35000+ plant genera
 ## the plant_search.ipynb file in this github is a jupyter notebook for Google Colab.
