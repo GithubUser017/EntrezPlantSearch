@@ -75,3 +75,5 @@ https://github.com/GithubUser017/EntrezPlantSearch/releases
 ## feed those genes/pathways into the plant_search
 
 ## This is meant to eventually be a tool for researchers. It is not meant to diagnose or treat disease. Please consult your doctor for those things. Thanks!
+------------------------------------------------
+phytochemical list is from the USDA Dr. Duke database.
